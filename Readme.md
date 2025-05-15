@@ -1,1 +1,3 @@
-Kezdet
+# Feladatleírás
+
+A feladatomban egy olyan játék, ahol tárgyat meg kell fogni és le kell dobni a kijelölt célhoz. A tárgy véletlenszűen jelenik meg a bokor falon belül. Lesznek hátráltató ellenfelek, amik  először megadott koordinátán belül mozognak, így ezen a pályán mozognak míg meg nem fogjuk a tárgyat. Ha megfogtuk a tárgyat akkor az ellenfelek elkezdenek szabadon mozogni. Az ellenfeleket szabad mozgás közben elkell kerülni, elvinni a tárgyat a célhoz. Ha hozzánk érnek vége a játéknak. Ha sikeresen elviszük kapunk 1 pontot és új menet kezdődik. Az ellenfelek száma pontok száma alapján növekednek. Az ellenfelek a Pacman szellemekhez hasonlóan működnek.
