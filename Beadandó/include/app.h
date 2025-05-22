@@ -19,6 +19,10 @@ typedef struct App
     double uptime;
     Camera camera;
     Scene scene;
+    GLuint gameover_texture;
+    GLuint f1_texture;
+    GLuint win_texture;
+    bool is_image_displayed;
 } App;
 
 
